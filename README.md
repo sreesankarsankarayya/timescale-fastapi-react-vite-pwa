@@ -18,7 +18,7 @@ This project is a full-stack application that combines a FastAPI backend with a 
 
 ## Demo
 
-Below is a GIF recording demonstrating the working of the page and backend logs, showing data generation and live graph updates on the UI.
+Below is a recording demonstrating the working of the page and backend logs, showing data generation and live graph updates on the UI.
 
 ![Demo GIF](.assets/FastAPi_ReactTSVitePWA_Timescale_WS.gif)
 <!-- Replace "path/to/your-demo.gif" with the actual path or URL to your GIF file -->
@@ -54,8 +54,9 @@ Below is a GIF recording demonstrating the working of the page and backend logs,
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/sreesankarsankarayya/timescale-fastapi-react-vite-pwa.git
+   cd timescale-fastapi-react-vite-pwa.git
+   cd code
    ```
 
 2. **Build and Start the Containers:**
@@ -81,7 +82,7 @@ Below is a GIF recording demonstrating the working of the page and backend logs,
 ## Project Structure
 
 ```
-.
+code\.
 ├── backend
 │   ├── main.py                # FastAPI backend application
 │   ├── requirements.txt       # Python dependencies
